@@ -8,20 +8,17 @@
   h4 {
     -webkit-margin-before: 0;
     margin-left: 50px;
-}
-
-a:link {
-  color: $primary-color;
-  text-decoration: none;
-}
-
-a:visited {
-  color: $primary-color;
-  text-decoration: none;
-}
-
-a:hover {
-  color: $primary-color;
-  text-decoration: underline;
-}
+  }
+  a:link {
+    color: $primary-color;
+    text-decoration: none;
+  }
+  a:visited {
+    color: $primary-color;
+    text-decoration: none;
+  }
+  a:hover {
+    color: $primary-color;
+    text-decoration: underline;
+  }
 }
